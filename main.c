@@ -9,8 +9,6 @@ int main()
         printf("HONK!");
     }
 
-    printf("b");
-    
     printf("a");
 
 }
