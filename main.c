@@ -13,4 +13,8 @@ int main()
     
     printf("a");
 
+    printf("Guitarra passou por aqui");
+
+    return(0); //Esqueceram do return )-:
+
 }
