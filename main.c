@@ -3,12 +3,27 @@
 
 int main()
 {
+    int escolha;
+
     printf("alou git!");
 
     while(1){
-        printf("HONK!");
+
+        printf("1 ou 2? ");
+        scanf("%d", &escolha);
+
+        if(escolha == 1){
+            printf("HONK!");
+        }
+        else{
+            printf("KNOH!");
+        }
     }
 
     printf("a");
+
+    printf("Guitarra passou por aqui");
+
+    return(0); //Esqueceram do return )-:
 
 }
