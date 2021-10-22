@@ -4,4 +4,9 @@
 int main()
 {
     printf("alou git!");
+
+    while(1){
+        printf("HONK!");
+    }
+    
 }
