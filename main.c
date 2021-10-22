@@ -8,5 +8,7 @@ int main()
     while(1){
         printf("HONK!");
     }
+
+    printf("b");
     
 }
