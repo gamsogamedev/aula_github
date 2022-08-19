@@ -20,7 +20,8 @@ int main()
         }
     }
 
-    printf("pato");
+
+    printf("GAMSo");
 
     printf("Guitarra passou por aqui");
     
