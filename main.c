@@ -24,6 +24,8 @@ int main()
 
     printf("Guitarra passou por aqui");
 
+    printf("HONK");
+
     return(0); //Esqueceram do return )-:
 
 }
