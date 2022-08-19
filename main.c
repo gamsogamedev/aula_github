@@ -20,7 +20,7 @@ int main()
         }
     }
 
-    printf("a");
+    printf("pato");
 
     printf("Guitarra passou por aqui");
     
